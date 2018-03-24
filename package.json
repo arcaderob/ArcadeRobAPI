@@ -1,0 +1,9 @@
+{
+  "name": "ArcadeRobAPI",
+  "version": "1.0.0",
+  "description": "arcaderob.com api",
+  "main": "index.js",
+  "repository": "https://github.com/arcaderob/ArcadeRobAPI",
+  "author": "Rob Gill",
+  "license": "MIT"
+}
