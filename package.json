@@ -3,7 +3,25 @@
   "version": "1.0.0",
   "description": "arcaderob.com api",
   "main": "index.js",
-  "repository": "https://github.com/arcaderob/ArcadeRobAPI",
-  "author": "Rob Gill",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcaderob/ArcadeRobAPI"
+  },
+  "author": "Rob Gill <gill@arcaderob.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "knex": "^0.14.4",
+    "node-config-manager": "^2.0.0",
+    "pg": "^7.4.1",
+    "restify": "^7.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.1.0"
+  }
 }
