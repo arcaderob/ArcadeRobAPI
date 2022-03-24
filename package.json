@@ -19,7 +19,7 @@
     "node-config-manager": "^2.0.0",
     "oauth2-server": "^3.0.0",
     "pg": "^7.4.1",
-    "ramda": "^0.25.0",
+    "ramda": "^0.28.0",
     "restify": "^7.0.0"
   },
   "devDependencies": {
