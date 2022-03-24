@@ -14,7 +14,7 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    "bunyan": "^1.8.12",
+    "bunyan": "^1.8.15",
     "knex": "^0.14.4",
     "node-config-manager": "^2.0.0",
     "oauth2-server": "^3.0.0",
