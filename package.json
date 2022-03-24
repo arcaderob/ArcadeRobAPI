@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bunyan": "^1.8.12",
-    "knex": "^0.14.4",
+    "knex": "^1.0.4",
     "node-config-manager": "^2.0.0",
     "oauth2-server": "^3.0.0",
     "pg": "^7.4.1",
